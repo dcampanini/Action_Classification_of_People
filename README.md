@@ -1,6 +1,6 @@
 # Action Classification of People
 
-This is the project of my second internship, at the Computer Vision Laboratory of the University of Chile. In this work, I write the code to use the system of action classification developed Georgia Gkioxari et al. in the paper "R-CNNs for Pose Estimation and Action Detection"
+This is the project of my second internship, at the Computer Vision Laboratory of the University of Chile. In this work, I wrote the code to use the system of action classification developed Georgia Gkioxari et al. in the paper "R-CNNs for Pose Estimation and Action Detection"
 
 # Description of the system for action detection 
 The system of detection is a convolutional neural network (CNN) of 8 layers, the first five layers are a group of convolutional layers, the layers 6,7 and 8 are fully conected (FC), after the last layer there is a softmax function to transform the output in probabilities. 
