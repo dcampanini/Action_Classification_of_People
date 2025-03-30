@@ -1,6 +1,6 @@
 # Action Classification of People
 
-This is the project of my second internship, at the Computer Vision Laboratory of the University of Chile. In this work, I wrote the code to use the action classification system developed by Georgia Gkioxari et al. in the paper "R-CNNs for Pose Estimation and Action Detection."
+This is the project of my second internship, at the Computer Vision Laboratory of the University of Chile. In this work, I developed the code to use the action classification system that Georgia Gkioxari et al. proposed in the paper "R-CNNs for Pose Estimation and Action Detection."
 
 # Description of the system for action detection 
 
